@@ -8,6 +8,7 @@ using System.Data;
 
 namespace baitaplon
 {
+    //
     public class Connect
     {
         //Tạo kết nối với cơ sở dữ liệu
