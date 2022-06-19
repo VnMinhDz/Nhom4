@@ -2,7 +2,7 @@ Nhóm 4 :
 Phạm Văn Minh
 Đinh Văn Khương
 Phùng Thế Anh
-
+#
 Hướng dẫn chạy chương trình :
 Yêu cầu thiết bị phải có: SQL sever 2019 và Visual studio 2019 or 2022 
 B1: Tải code trên github.zip
